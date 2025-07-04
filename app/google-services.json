@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "362831752851",
+    "project_id": "calculatorwall-9b92b",
+    "storage_bucket": "calculatorwall-9b92b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:362831752851:android:b934b41f91d0adb4352766",
+        "android_client_info": {
+          "package_name": "com.calculatorwall.android"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpaO-heDsL1F8W9K-zCpZ-wKJ-ugRRSco"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
